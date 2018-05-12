@@ -1,0 +1,47 @@
+_repo: Mjallhv-t--13--fint-ri-Handa-B-rnum_16846
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: M. Grímsson (Magnús Grímsson)
+    aliases:
+    - Grimsson, Magnus
+    - Magnús Grímsson
+    - Grímsson, Magnús
+    birthdate: 1825
+    deathdate: 1860
+    gutenberg_agent_id: '6971'
+    url: http://www.gutenberg.org/2009/agents/6971
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Grimm, Jacob
+    alias: Grimm, Jacob Ludwig Carl
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '971'
+    url: http://www.gutenberg.org/2009/agents/971
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
+  - agent_name: Grimm, Wilhelm
+    alias: Grimm, Wilhelm Carl
+    birthdate: 1786
+    deathdate: 1859
+    gutenberg_agent_id: '972'
+    url: http://www.gutenberg.org/2009/agents/972
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
+description: ''
+gutenberg_issued: '2005-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16846'
+language: is
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fairy tales -- Germany'
+- !lcc 'PZ'
+title: "Mjallhvít\r\nÆfintýri Handa Börnum"
+url: http://www.gutenberg.org/ebooks/16846
